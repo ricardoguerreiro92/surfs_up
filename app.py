@@ -89,4 +89,3 @@ def stats(start=None, end=None):
     
     print("Start/End route has been accessed...")
     return jsonify(temps=temps)
-    
