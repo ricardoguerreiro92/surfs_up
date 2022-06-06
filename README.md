@@ -22,7 +22,7 @@
 
 ## Precipitation queries for months June and December
 ![june_prcp](/Resources/june_prcp.png)
-![dec_prcp](/Resources/june_prcp.png)
+![dec_prcp](/Resources/dec_prcp.png)
 
 ## Conclusion
 - In conclusion we verify that the invesment in Surf's Up seems to be a smart idea with the weather both in the winter and summer being very enjoyable. Not only the temperatures are inviting we can also see with the precipitation summary above for both months that we have a good amount of days where the precipitation is very low, which is very pleasant for the locals as well as tourists who are eager to learn/enjoy surfing along our sweet ice cream!
